@@ -7,11 +7,11 @@ While designing the feature a realized that by removing the location aspect the 
 questions, so I created an example of that as well.
 
 4.
-  1. Ethical Issues
+  a. Ethical Issues
     •	The Yo app does not make any disclosure as to whether it collects personal and uses user data. 
     •	The Yo app is very simple and requires minimal user data decreasing opportunity for the invasion of user privacy. 
     •	The simplicity of the Yo app also makes it unlikely that it could cause harm to users 
-  2. Legal Issues
+  b. Legal Issues
     •	The invite feature I added and the standard Yo app allow users to send their location. Most countries have laws 
     governing
     the distribution of location data. 
@@ -19,14 +19,14 @@ questions, so I created an example of that as well.
     be espessially important to a feature that allows users to send invotations to events in the real world.
     •	The Yo app includes a store. From browsing the store it was unclear whether anything can actually be purchased
     within the app, but if there are any purchases they will have to follow any relavant laws mediating financial transactions.
-  3. Professional Issues
+  c. Professional Issues
     •	The Yo app has an api that allows yos to be sent to groups. Companies that utilize the api may not uphold professional 
     standards
     •	The Yo app could be considered a system that becomes integrated into the infrastructure of society. As a result it will 
     be held to higher standards due to its potential to impact society.
     •	The AMC requires members to "Design and implement systems that are robustly and usably secure." The Yo app was hacked at
     one point allowing the hacker acces to any users phone number
-  4. Spain privacy laws
+  d. Spain privacy laws
     •	Laws in Spain diffrentiate between "online" and "offline" apps. Social networking apps fall under the online category
     which is the more stringent of the two and requires adherance to LOPD regulations which cover the collection of information.
     •	There is also a distinction between "invasive" and "noninvasive" apps. Once again the Yo app is in the more stringent
