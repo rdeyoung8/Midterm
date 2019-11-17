@@ -26,6 +26,6 @@ The feature I added is the ability to use the Yo app to send invitations to even
 
 I uploaded the screenshots for the app redesign in batches
 
-![Alt text](Screenshot(55).png ?raw=true "Title")
-![Alt text](Screenshot(55).png ?raw=true "Title")
-![Alt text](Screenshot(55).png ?raw=true "Title")
+![Alt text](Screenshot(55).png)
+![Alt text](Screenshot(55).png)
+![Alt text](Screenshot(55).png)
