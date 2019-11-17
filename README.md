@@ -1,8 +1,8 @@
 # Midterm
 
-https://github.com/rdeyoung8/Midterm
+#####https://github.com/rdeyoung8/Midterm
 
-The feature I added is the ability to use the Yo app to send invitations to events. This feature sends a simple message and a location. which are both features already included within the app, but adds the ability for the user to reply yes or no. While designing the feature a realized that by removing the location aspect the feature could be used to send simple yes or no questions, so I created an example of that as well.
+#####The feature I added is the ability to use the Yo app to send invitations to events. This feature sends a simple message and a location. which are both features already included within the app, but adds the ability for the user to reply yes or no. While designing the feature a realized that by removing the location aspect the feature could be used to send simple yes or no questions, so I created an example of that as well.
 
 ####Ethical Issues
 
