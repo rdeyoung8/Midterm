@@ -28,4 +28,4 @@ I uploaded the screenshots for the app redesign in batches
 
 ![Alt text](Screenshot(55).png)
 ![Alt text](Screenshot(56).png)
-![Alt text](Screenshot(58).png)
+![Alt text](Screenshot(57).png)
