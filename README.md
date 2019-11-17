@@ -23,3 +23,9 @@ The feature I added is the ability to use the Yo app to send invitations to even
 ##### Laws in Spain diffrentiate between "online" and "offline" apps. Social networking apps fall under the online category which is the more stringent of the two and requires adherance to LOPD regulations which cover the collection of information.
 ##### There is also a distinction between "invasive" and "noninvasive" apps. Once again the Yo app is in the more stringent category, in this case qualifying as invasive. This means the app must adhere to LSSI regulations which cover location  data and advertisements.
 ##### Laws reguarding mobile apps in Spain have a particular focus on minors. If an app collects information a users must give informed consent before installation. Minors can not give consent and a parent/guardian must consent for them. The Yo app does not violate any of Spains legal requirements as far as I'm aware.
+
+I uploaded the screenshots for the app redesign in batches
+
+![Alt text](Screenshot.png (55)?raw=true "Title")
+![Alt text](Screenshot.png (56)?raw=true "Title")
+![Alt text](Screenshot.png (58)?raw=true "Title")
